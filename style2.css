@@ -5,7 +5,8 @@
 	color: #fff;
 }
 body{
-	background: url(Trend color neon background002.eps) no-repeat center center;
+	background-image: url('background.jpg');
+	/*background-image: url('Bakground.eps') no-repeat center center;*/
 }
 .signup-form {
 	color: #11C189;
