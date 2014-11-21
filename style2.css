@@ -7,6 +7,8 @@
 body{
 	background: url(Background.jpg) no-repeat center center;
 }
+.image {image: url(VaporPlus.png) no-repeat center center;}
+
 .signup-form {
 	color: #00AEEF;
 	text-align: center;
